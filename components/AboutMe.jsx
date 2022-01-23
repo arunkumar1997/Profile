@@ -17,8 +17,8 @@ const AboutMe = () => {
           className="mx-auto w-75"
           style={{ fontSize: "1.7rem", fontWeight: "200" }}
         >
-          Also i have experiance in Scaling , Loadbalencing, Containerizing of
-          an application. In addition to that i have worked on AWS and Digital
+          Also i have experiance in Scaling, Loadbalencing, Containerizing of an
+          application. In addition to that i have worked on AWS and Digital
           Ocian cloud and their APIs.
         </p>
       </div>
