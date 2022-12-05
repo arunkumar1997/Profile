@@ -9,7 +9,7 @@ const AboutMe = () => {
           className="mx-auto w-75"
           style={{ fontSize: "1.7rem", fontWeight: "200" }}
         >
-          I am a Software Developer and also a DevOps expertie. I am passionate
+          I am a Software Developer and also a DevOps expert. I am passionate
           about coding. I can build APIs, scalable React and NodeJs production
           grade applications.
         </p>
@@ -17,9 +17,8 @@ const AboutMe = () => {
           className="mx-auto w-75"
           style={{ fontSize: "1.7rem", fontWeight: "200" }}
         >
-          Also i have experiance in Scaling, Loadbalencing, Containerizing of an
-          application. In addition to that i have worked on AWS and Digital
-          Ocian cloud and their APIs.
+          Also i have experience in Scaling, Load Balancing and Containerization. In addition to that i have also worked on AWS and Digital
+          Ocean cloud and their APIs.
         </p>
       </div>
     </>
